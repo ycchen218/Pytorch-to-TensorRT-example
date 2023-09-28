@@ -16,7 +16,7 @@ This is an MNIST example demonstrating how to convert a .pt file to an .ONNX fil
 python main.py
 ```
 The main.py file incude function as following:
-1. Train the mnist classifier ans save the model in .pt file.
+1. Train the mnist classifier and save the model in .pt file.
 2. Convert the .pt file to .onnx file.
 3. Convert the .onnx file to .trt file.
 ## Inference the .trt model
